@@ -1,0 +1,5 @@
+{
+  "name": "Personal Research Assistant",
+  "description": "An AI-powered research assistant to help you synthesize information from your documents. Upload PDFs, notes, or articles, and ask questions like 'What are the key points?' or 'Compare these reports'.",
+  "requestFramePermissions": []
+}
